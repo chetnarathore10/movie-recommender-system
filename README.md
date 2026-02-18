@@ -69,9 +69,9 @@ It uses a precomputed similarity matrix and The Movie Database (TMDb) API to fet
 
   
 
-` git clone https://github.com/Not-Darshil/movie-recommender.git `
+` git clone https://github.com/chetnarathore10/movie-recommender-system.git `
 
-`cd movie-recommender`
+`cd movie-recommender-system`
 
   
 

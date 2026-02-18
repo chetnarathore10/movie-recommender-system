@@ -27,8 +27,8 @@ footer = """
         font-size: 16px;
     }
     </style>
-    <div class="footer">
-        Developed by <a href="https://not-darshil.netlify.app/" target="_blank"><b>not.darshil</b></a>
+    <div style="text-align: center;">
+        Developed by Chetna Rathore
     </div>
 """
 

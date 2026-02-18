@@ -27,7 +27,7 @@ footer = """
         font-size: 16px;
     }
     </style>
-    <div style="text-align: center;">
+    <div class="footer">
         Developed by Chetna Rathore
     </div>
 """
